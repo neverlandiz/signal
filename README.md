@@ -3,6 +3,7 @@
 
 This application allows the user to control their Linux desktop using different gestures!
 
+Below is a manual for all the currently available gestures and their corresponding functions :)
 
 ![Gestures Manual](gestures-manual.jpg)
 
